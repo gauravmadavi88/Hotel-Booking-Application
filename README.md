@@ -41,5 +41,5 @@ The Hotel Booking Application is designed to simplify the process of finding and
 - Postman/Swagger
 - Junit with Mockito
 - IntellijIdea 
-- ER Diagram ![Screenshot 2024-08-30 000548](https://github.com/user-attachments/assets/32aa50f4-93ea-4a96-804a-044ec2a04012)
+- **ER Diagram** ![Screenshot 2024-08-30 000548](https://github.com/user-attachments/assets/32aa50f4-93ea-4a96-804a-044ec2a04012)
 
